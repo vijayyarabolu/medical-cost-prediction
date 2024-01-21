@@ -1,0 +1,11 @@
+# Ignore virtual environments
+tf-env/
+
+# Ignore Tableau autosave junk
+*.twb~
+*.tds
+
+# Ignore OS & temp files
+__pycache__/
+*.pyc
+.DS_Store
