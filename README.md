@@ -20,7 +20,7 @@ This project predicts individual medical insurance charges using regression mode
 
 ---
 
-## 📊 Visual Insights
+## 📊 Visual Insights (Matplotlib & Tableau)
 
 ### 1. Average Charges: Smoker vs Non-Smoker (Tableau)
 <img src="Images/smoker_vs_nonsmoker_avg_charges.png" width="600"/>
@@ -37,21 +37,21 @@ This project predicts individual medical insurance charges using regression mode
 ---
 
 ### 3. Smokers vs Medical Charges (Matplotlib)
-![Smokers vs Medical Charges](Images/smokers_vs_medical_charges.png)
+<img src="Images/smokers_vs_medical_charges.png" width="600"/>
 
 > Bar chart showing the average charges for smokers vs non-smokers.
 
 ---
 
 ### 4. Medical Charges vs BMI (Colored by Smoking Status) (Matplotlib)
-![Charges vs BMI](Images/charges_vs_bmi_smoker.png)
+<img src="Images/bmi_vs_charges_by_smoker.png" width="600"/>
 
 > Scatter plot showing BMI's effect on charges. Smokers consistently have higher costs.
 
 ---
 
 ### 5. Medical Charges vs Age (Colored by Smoking Status) (Matplotlib)
-![Charges vs Age](Images/charges_vs_age_smoker.png)
+<img src="Images/age_vs_charges_by_smoker.png" width="600"/>
 
 > As age increases, charges rise — with smokers showing a much steeper increase.
 
