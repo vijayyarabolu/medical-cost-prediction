@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vijay/Desktop/Data%20Projects/New%20Resume%20Projects/Medical-Cost-Prediction/mlruns/266078343233807907/51bd657f1b164ee4952e8d59dc454000/artifacts
+end_time: 1763607515795
+entry_point_name: ''
+experiment_id: '266078343233807907'
+lifecycle_stage: active
+run_id: 51bd657f1b164ee4952e8d59dc454000
+run_name: thundering-lynx-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763607512405
+status: 3
+tags: []
+user_id: vijay

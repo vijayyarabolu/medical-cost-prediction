@@ -1,0 +1,10 @@
+artifact_location: file:///Users/vijay/Desktop/Data%20Projects/New%20Resume%20Projects/Medical-Cost-Prediction/mlruns/266078343233807907/models/m-68b6ce7ec5c841ef8f594b5444a82b23/artifacts
+creation_timestamp: 1763607515980
+experiment_id: '266078343233807907'
+last_updated_timestamp: 1763607517748
+model_id: m-68b6ce7ec5c841ef8f594b5444a82b23
+model_type: null
+name: model
+source_run_id: ec6a2dda1265473faa2c596a9281ac54
+status: 2
+status_message: null

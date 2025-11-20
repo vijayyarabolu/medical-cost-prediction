@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/vijay/Desktop/Data%20Projects/New%20Resume%20Projects/Medical-Cost-Prediction/mlruns/266078343233807907/ec6a2dda1265473faa2c596a9281ac54/artifacts
+end_time: 1763607517752
+entry_point_name: ''
+experiment_id: '266078343233807907'
+lifecycle_stage: active
+run_id: ec6a2dda1265473faa2c596a9281ac54
+run_name: rogue-deer-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763607515805
+status: 3
+tags: []
+user_id: vijay

@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+langchain
+faiss-cpu
+sentence-transformers
+mlflow
+jupyter
+pyarrow

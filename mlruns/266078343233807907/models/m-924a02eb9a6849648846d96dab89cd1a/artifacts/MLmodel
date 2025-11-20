@@ -1,0 +1,22 @@
+artifact_path: file:///Users/vijay/Desktop/Data%20Projects/New%20Resume%20Projects/Medical-Cost-Prediction/mlruns/266078343233807907/models/m-924a02eb9a6849648846d96dab89cd1a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-924a02eb9a6849648846d96dab89cd1a
+model_size_bytes: 1071
+model_uuid: m-924a02eb9a6849648846d96dab89cd1a
+prompts: null
+run_id: 51bd657f1b164ee4952e8d59dc454000
+utc_time_created: '2025-11-20 02:58:32.442176'
